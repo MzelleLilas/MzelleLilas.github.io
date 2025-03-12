@@ -1,0 +1,5 @@
+@import "tailwindcss";
+
+@theme {
+    --color-ui-background: #191919;
+}
