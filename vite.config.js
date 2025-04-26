@@ -8,4 +8,7 @@ export default defineConfig({
   server: {
     open: false, // Ouvre automatiquement le navigateur
   },
+  build: {
+    outDir: 'build' // Change le dossier de sortie à "build"
+  }
 });
